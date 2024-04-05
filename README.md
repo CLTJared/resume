@@ -108,7 +108,10 @@ My Cool Side Project
     * Second item.
 
 **Programming Languages**
-:   Knowledge of **JavaScript**, **CSS**, **HTML**, **ReactJS**, **NodeJS**, **NextJS**
+:   Knowledge of **JavaScript**, **CSS**, **HTML**
+
+**Frameworks**
+:   Bootstrap, Materialize, Tailwind, jQuery, ExpressJS, React, Angular
 
 **Databases**
 :   MySQL, SQLite, MongoDB
