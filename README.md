@@ -110,8 +110,14 @@ My Cool Side Project
 **Programming Languages**
 :   Knowledge of **JavaScript**, **CSS**, **HTML**
 
-**Frameworks**
-:   Bootstrap, Materialize, Tailwind, jQuery, ExpressJS, React, Angular
+**Frameworks & Other Integrations**
+:   NodeJS, Bootstrap, Materialize, Tailwind, jQuery, ExpressJS, React, Angular, SocketIO, Stripe
 
 **Databases**
 :   MySQL, SQLite, MongoDB
+
+**Database ORM**
+:   Prisma, Sequelize
+
+**Testing Suites**
+:   
